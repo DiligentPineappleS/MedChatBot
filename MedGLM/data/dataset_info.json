@@ -1,0 +1,9 @@
+{
+  "alpaca_en": {
+    "file_name": "alpaca_data_en_52k.json",
+  },
+  "alpaca_zh": {
+    "file_name": "alpaca_data_zh_51k.json",
+  },
+  
+}
